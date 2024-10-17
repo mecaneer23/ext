@@ -3,9 +3,9 @@
 CLI tool to get the file extensions of passed in files
 
 ```bash
-$ ext.py hello.jpg
+$ ./ext.py hello.jpg
 jpg
 
-$ ext.py myfile.test.php
+$ ./ext.py myfile.test.php
 php
 ```
